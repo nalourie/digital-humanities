@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+ <Document>
+ 
+  <Placemark>
+    <name> Orleans </name>
+    <description> Orleans </description>
+    <Point>
+      <coordinates> 1.909251,47.902964,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Gretna </name>
+    <description> Gretna </description>
+    <Point>
+      <coordinates> -90.0539603,29.9146493,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> France </name>
+    <description> France </description>
+    <Point>
+      <coordinates> 2.213749,46.227638,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Orville </name>
+    <description> Orville </description>
+    <Point>
+      <coordinates> 2.409492,50.134458,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Texas </name>
+    <description> Texas </description>
+    <Point>
+      <coordinates> -99.9018131,31.9685988,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  
+  <Placemark>
+    <name> Louisiana </name>
+    <description> Louisiana </description>
+    <Point>
+      <coordinates> -91.9623327,30.9842977,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Lalie </name>
+    <description> Lalie </description>
+    <Point>
+      <coordinates> 2.112983,44.795764,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Sabine </name>
+    <description> Sabine </description>
+    <Point>
+      <coordinates> -93.6369684,30.7121868,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Lafirme </name>
+    <description> Lafirme </description>
+    <Point>
+      <coordinates> -118.304352,34.043776,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Cane </name>
+    <description> Cane </description>
+    <Point>
+      <coordinates> 21.3248689,48.607069,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Novena </name>
+    <description> Novena </description>
+    <Point>
+      <coordinates> 103.8424319,1.3208572,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Virginia </name>
+    <description> Virginia </description>
+    <Point>
+      <coordinates> -78.6568942,37.4315734,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> China </name>
+    <description> China </description>
+    <Point>
+      <coordinates> 104.195397,35.86166,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Shreveport </name>
+    <description> Shreveport </description>
+    <Point>
+      <coordinates> -93.7501789,32.5251516,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Beauregard </name>
+    <description> Beauregard </description>
+    <Point>
+      <coordinates> -90.3823144,31.7218319,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Cloutierville </name>
+    <description> Cloutierville </description>
+    <Point>
+      <coordinates> -92.9182136,31.543226,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Offdean </name>
+    <description> Offdean </description>
+    <Point>
+      <coordinates> -84.3057658,30.4376773,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Natchitoches </name>
+    <description> Natchitoches </description>
+    <Point>
+      <coordinates> -93.0862749,31.7607195,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Congo </name>
+    <description> Congo </description>
+    <Point>
+      <coordinates> 15.827659,-0.228021,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Chartres </name>
+    <description> Chartres </description>
+    <Point>
+      <coordinates> 1.489012,48.443854,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Carancro </name>
+    <description> Carancro </description>
+    <Point>
+      <coordinates> -92.0490096,30.317144,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Marksville </name>
+    <description> Marksville </description>
+    <Point>
+      <coordinates> -92.0662356,31.1279652,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Avoyelles </name>
+    <description> Avoyelles </description>
+    <Point>
+      <coordinates> -92.0665197,30.9711824,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  
+  <Placemark>
+    <name> Mardi </name>
+    <description> Mardi </description>
+    <Point>
+      <coordinates> 151.4095829,-33.2983205,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Sumter </name>
+    <description> Sumter </description>
+    <Point>
+      <coordinates> -80.3414693,33.9204354,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Bamboula </name>
+    <description> Bamboula </description>
+    <Point>
+      <coordinates> -53.183333,3.833333,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Zandrine </name>
+    <description> Zandrine </description>
+    <Point>
+      <coordinates> 6.8908576,61.8607186,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Lolotte </name>
+    <description> Lolotte </description>
+    <Point>
+      <coordinates> 55.5591575,-21.2414786,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Denis </name>
+    <description> Denis </description>
+    <Point>
+      <coordinates> 55.6675756,-3.8053291,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Buckeye </name>
+    <description> Buckeye </description>
+    <Point>
+      <coordinates> -112.5837766,33.3703197,0</coordinates>
+    </Point>
+  </Placemark>
+  
+ </Document>
+</kml>

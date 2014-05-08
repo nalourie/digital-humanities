@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+ <Document>
+ 
+  <Placemark>
+    <name> Philadelphia </name>
+    <description> Philadelphia </description>
+    <Point>
+      <coordinates> -75.163789,39.952335,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Inca </name>
+    <description> Inca </description>
+    <Point>
+      <coordinates> 2.9075475,39.7177743,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Ulrica </name>
+    <description> Ulrica </description>
+    <Point>
+      <coordinates> -1.2624778,53.3915995,0</coordinates>
+    </Point>
+  </Placemark>
+
+  
+  <Placemark>
+    <name> Europe </name>
+    <description> Europe </description>
+    <Point>
+      <coordinates> 15.2551187,54.5259614,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Iowa </name>
+    <description> Iowa </description>
+    <Point>
+      <coordinates> -93.097702,41.8780025,0</coordinates>
+    </Point>
+  </Placemark>
+  
+
+  <Placemark>
+    <name> Virginia </name>
+    <description> Virginia </description>
+    <Point>
+      <coordinates> -78.6568942,37.4315734,0</coordinates>
+    </Point>
+  </Placemark>
+
+  
+  <Placemark>
+    <name> California </name>
+    <description> California </description>
+    <Point>
+      <coordinates> -119.4179324,36.778261,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> America </name>
+    <description> America </description>
+    <Point>
+      <coordinates> -95.712891,37.09024,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Alaska </name>
+    <description> Alaska </description>
+    <Point>
+      <coordinates> -149.4936733,64.2008413,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  
+  <Placemark>
+    <name> Banksia </name>
+    <description> Banksia </description>
+    <Point>
+      <coordinates> 151.1396602,-33.9458301,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> England </name>
+    <description> England </description>
+    <Point>
+      <coordinates> -1.1743197,52.3555177,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> San </name>
+    <description> San </description>
+    <Point>
+      <coordinates> 44.1910066,15.3694451,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Diantha </name>
+    <description> Diantha </description>
+    <Point>
+      <coordinates> -76.6562866,38.7379371,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Leicester </name>
+    <description> Leicester </description>
+    <Point>
+      <coordinates> -1.1397592,52.6368778,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Danes </name>
+    <description> Danes </description>
+    <Point>
+      <coordinates> 24.7015179,46.222477,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Delafield </name>
+    <description> Delafield </description>
+    <Point>
+      <coordinates> -88.4037079,43.060842,0</coordinates>
+    </Point>
+  </Placemark>
+  
+ </Document>
+</kml>

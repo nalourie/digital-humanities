@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+ <Document>
+ 
+  <Placemark>
+    <name> Orleans </name>
+    <description> Orleans </description>
+    <Point>
+      <coordinates> 1.909251,47.902964,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Mississippi </name>
+    <description> Mississippi </description>
+    <Point>
+      <coordinates> -89.3985283,32.3546679,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Rhine </name>
+    <description> Rhine </description>
+    <Point>
+      <coordinates> -83.2001537,31.9896229,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Sumter </name>
+    <description> Sumter </description>
+    <Point>
+      <coordinates> -80.3414693,33.9204354,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> France </name>
+    <description> France </description>
+    <Point>
+      <coordinates> 2.213749,46.227638,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Louisiana </name>
+    <description> Louisiana </description>
+    <Point>
+      <coordinates> -91.9623327,30.9842977,0</coordinates>
+    </Point>
+  </Placemark>
+
+  
+  <Placemark>
+    <name> Vera </name>
+    <description> Vera </description>
+    <Point>
+      <coordinates> -1.8679197,37.2476803,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Creoles </name>
+    <description> Creoles </description>
+    <Point>
+      <coordinates> 57.6747222,-20.3813889,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Biloxi </name>
+    <description> Biloxi </description>
+    <Point>
+      <coordinates> -88.8853078,30.3960318,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Gouvernail </name>
+    <description> Gouvernail </description>
+    <Point>
+      <coordinates> 5.1001936,44.5910924,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Lourdes </name>
+    <description> Lourdes </description>
+    <Point>
+      <coordinates> -0.045726,43.091463,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Celestine </name>
+    <description> Celestine </description>
+    <Point>
+      <coordinates> -86.7791769,38.3848423,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name> Chartres </name>
+    <description> Chartres </description>
+    <Point>
+      <coordinates> 1.489012,48.443854,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Kentucky </name>
+    <description> Kentucky </description>
+    <Point>
+      <coordinates> -84.2700179,37.8393332,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Carondelet </name>
+    <description> Carondelet </description>
+    <Point>
+      <coordinates> -90.2549631,38.5556397,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name> America </name>
+    <description> America </description>
+    <Point>
+      <coordinates> -95.712891,37.09024,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Mexican </name>
+    <description> Mexican </description>
+    <Point>
+      <coordinates> -94.4657729,18.116992,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Bienville </name>
+    <description> Bienville </description>
+    <Point>
+      <coordinates> -92.9804374,32.3568222,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Zandrine </name>
+    <description> Zandrine </description>
+    <Point>
+      <coordinates> 6.8908576,61.8607186,0</coordinates>
+    </Point>
+  </Placemark>
+  
+ </Document>
+</kml>

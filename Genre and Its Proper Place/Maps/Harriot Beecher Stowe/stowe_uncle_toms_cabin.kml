@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+ <Document>
+ 
+  <Placemark>
+    <name> Mississippi </name>
+    <description> Mississippi </description>
+    <Point>
+      <coordinates> -89.3985283,32.3546679,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Madras </name>
+    <description> Madras </description>
+    <Point>
+      <coordinates> 80.2508246,13.0524139,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Louisiana </name>
+    <description> Louisiana </description>
+    <Point>
+      <coordinates> -91.9623327,30.9842977,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  
+  <Placemark>
+    <name> Amherstberg </name>
+    <description> Amherstberg </description>
+    <Point>
+      <coordinates> -83.1086977,42.1013779,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Spain </name>
+    <description> Spain </description>
+    <Point>
+      <coordinates> -3.74922,40.463667,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> England </name>
+    <description> England </description>
+    <Point>
+      <coordinates> -1.1743197,52.3555177,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Pontchartrain </name>
+    <description> Pontchartrain </description>
+    <Point>
+      <coordinates> -90.1120696,30.205062,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> India </name>
+    <description> India </description>
+    <Point>
+      <coordinates> 78.96288,20.593684,0</coordinates>
+    </Point>
+  </Placemark>
+
+  
+  <Placemark>
+    <name> Nazareth </name>
+    <description> Nazareth </description>
+    <Point>
+      <coordinates> 35.303546,32.699635,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> France </name>
+    <description> France </description>
+    <Point>
+      <coordinates> 2.213749,46.227638,0</coordinates>
+    </Point>
+  </Placemark>
+  
+
+  <Placemark>
+    <name> China </name>
+    <description> China </description>
+    <Point>
+      <coordinates> 104.195397,35.86166,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Massachusetts </name>
+    <description> Massachusetts </description>
+    <Point>
+      <coordinates> -71.3824374,42.4072107,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> America </name>
+    <description> America </description>
+    <Point>
+      <coordinates> -95.712891,37.09024,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Europe </name>
+    <description> Europe </description>
+    <Point>
+      <coordinates> 15.2551187,54.5259614,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Loker </name>
+    <description> Loker </description>
+    <Point>
+      <coordinates> 2.7721461,50.7817391,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Kentuck </name>
+    <description> Kentuck </description>
+    <Point>
+      <coordinates> -84.2700179,37.8393332,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  
+  <Placemark>
+    <name> Ramah </name>
+    <description> Ramah </description>
+    <Point>
+      <coordinates> -108.491741,35.1330889,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Austria </name>
+    <description> Austria </description>
+    <Point>
+      <coordinates> 14.550072,47.516231,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Ireland </name>
+    <description> Ireland </description>
+    <Point>
+      <coordinates> -8.24389,53.41291,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Ohio </name>
+    <description> Ohio </description>
+    <Point>
+      <coordinates> -82.907123,40.4172871,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  
+  <Placemark>
+    <name> Haiti </name>
+    <description> Haiti </description>
+    <Point>
+      <coordinates> -72.285215,18.971187,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Poland </name>
+    <description> Poland </description>
+    <Point>
+      <coordinates> 19.145136,51.919438,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  
+  <Placemark>
+    <name> Morocco </name>
+    <description> Morocco </description>
+    <Point>
+      <coordinates> -7.09262,31.791702,0</coordinates>
+    </Point>
+  </Placemark>
+  
+
+  <Placemark>
+    <name> Montreal </name>
+    <description> Montreal </description>
+    <Point>
+      <coordinates> -73.5539925,45.5086699,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name> Philadelphia </name>
+    <description> Philadelphia </description>
+    <Point>
+      <coordinates> -75.163789,39.952335,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Hampshire </name>
+    <description> Hampshire </description>
+    <Point>
+      <coordinates> -1.216844,51.0895203,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Israel </name>
+    <description> Israel </description>
+    <Point>
+      <coordinates> 34.851612,31.046051,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Virginia </name>
+    <description> Virginia </description>
+    <Point>
+      <coordinates> -78.6568942,37.4315734,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Vermont </name>
+    <description> Vermont </description>
+    <Point>
+      <coordinates> -72.5778415,44.5588028,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Indies </name>
+    <description> Indies </description>
+    <Point>
+      <coordinates> -80.2962981,27.3031076,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Kentucky </name>
+    <description> Kentucky </description>
+    <Point>
+      <coordinates> -84.2700179,37.8393332,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name> Augustine </name>
+    <description> Augustine </description>
+    <Point>
+      <coordinates> -101.3658004,38.7447864,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Egypt </name>
+    <description> Egypt </description>
+    <Point>
+      <coordinates> 30.802498,26.820553,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Earth </name>
+    <description> Earth </description>
+    <Point>
+      <coordinates> -102.4107493,34.2331373,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Jerusalem </name>
+    <description> Jerusalem </description>
+    <Point>
+      <coordinates> 35.21371,31.768319,0</coordinates>
+    </Point>
+  </Placemark>
+  
+ </Document>
+</kml>

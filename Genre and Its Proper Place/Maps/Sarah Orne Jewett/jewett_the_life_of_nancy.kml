@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+ <Document>
+ 
+  <Placemark>
+    <name> Canada </name>
+    <description> Canada </description>
+    <Point>
+      <coordinates> -106.346771,56.130366,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Longport </name>
+    <description> Longport </description>
+    <Point>
+      <coordinates> -74.5248756,39.3142827,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Barstow </name>
+    <description> Barstow </description>
+    <Point>
+      <coordinates> -117.0172826,34.8957957,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Atfield </name>
+    <description> Atfield </description>
+    <Point>
+      <coordinates> -5.1838775,56.1547509,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> France </name>
+    <description> France </description>
+    <Point>
+      <coordinates> 2.213749,46.227638,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Wetherford </name>
+    <description> Wetherford </description>
+    <Point>
+      <coordinates> -97.7972544,32.7592955,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Fairford </name>
+    <description> Fairford </description>
+    <Point>
+      <coordinates> -1.785135,51.707537,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name> Bordeaux </name>
+    <description> Bordeaux </description>
+    <Point>
+      <coordinates> -0.57918,44.837789,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Europe </name>
+    <description> Europe </description>
+    <Point>
+      <coordinates> 15.2551187,54.5259614,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Lowell </name>
+    <description> Lowell </description>
+    <Point>
+      <coordinates> -71.3161718,42.6334247,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Israel </name>
+    <description> Israel </description>
+    <Point>
+      <coordinates> 34.851612,31.046051,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Copenhagen </name>
+    <description> Copenhagen </description>
+    <Point>
+      <coordinates> 12.5683371,55.6760968,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Virginia </name>
+    <description> Virginia </description>
+    <Point>
+      <coordinates> -78.6568942,37.4315734,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Wall </name>
+    <description> Wall </description>
+    <Point>
+      <coordinates> -74.0679753,40.1606666,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Beacon </name>
+    <description> Beacon </description>
+    <Point>
+      <coordinates> -73.9695832,41.5048158,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> California </name>
+    <description> California </description>
+    <Point>
+      <coordinates> -119.4179324,36.778261,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Wilton </name>
+    <description> Wilton </description>
+    <Point>
+      <coordinates> -73.4378988,41.1953739,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> China </name>
+    <description> China </description>
+    <Point>
+      <coordinates> 104.195397,35.86166,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Charlestown </name>
+    <description> Charlestown </description>
+    <Point>
+      <coordinates> -71.0602131,42.3782065,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Milton </name>
+    <description> Milton </description>
+    <Point>
+      <coordinates> -79.8774042,43.5182991,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Vermont </name>
+    <description> Vermont </description>
+    <Point>
+      <coordinates> -72.5778415,44.5588028,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Topham </name>
+    <description> Topham </description>
+    <Point>
+      <coordinates> -1.060828,53.6485702,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> England </name>
+    <description> England </description>
+    <Point>
+      <coordinates> -1.1743197,52.3555177,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Jersey </name>
+    <description> Jersey </description>
+    <Point>
+      <coordinates> -2.13125,49.214439,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name> Barbadoes </name>
+    <description> Barbadoes </description>
+    <Point>
+      <coordinates> -59.543198,13.193887,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Scriptur </name>
+    <description> Scriptur </description>
+    <Point>
+      <coordinates> -0.7257624,51.9957161,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Woodville </name>
+    <description> Woodville </description>
+    <Point>
+      <coordinates> 175.8629263,-40.3360835,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Revere </name>
+    <description> Revere </description>
+    <Point>
+      <coordinates> -71.0119948,42.4084302,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name> Penobscot </name>
+    <description> Penobscot </description>
+    <Point>
+      <coordinates> -68.8178022,44.4455184,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Sanscrit </name>
+    <description> Sanscrit </description>
+    <Point>
+      <coordinates> 72.8376546,19.0302191,0</coordinates>
+    </Point>
+  </Placemark>
+ 
+  <Placemark>
+    <name> Westbury </name>
+    <description> Westbury </description>
+    <Point>
+      <coordinates> -73.5876273,40.7556561,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Massachusetts </name>
+    <description> Massachusetts </description>
+    <Point>
+      <coordinates> -71.3824374,42.4072107,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Jerusalem </name>
+    <description> Jerusalem </description>
+    <Point>
+      <coordinates> 35.21371,31.768319,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Windsor </name>
+    <description> Windsor </description>
+    <Point>
+      <coordinates> -83.0363633,42.3149367,0</coordinates>
+    </Point>
+  </Placemark>
+  
+ </Document>
+</kml>

@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+ <Document>
+  
+  <Placemark>
+    <name> Nazareth </name>
+    <description> Nazareth </description>
+    <Point>
+      <coordinates> 35.303546,32.699635,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Linnea </name>
+    <description> Linnea </description>
+    <Point>
+      <coordinates> -82.6793421,36.5346725,0</coordinates>
+    </Point>
+  </Placemark>
+
+  
+  <Placemark>
+    <name> Umbagog </name>
+    <description> Umbagog </description>
+    <Point>
+      <coordinates> -71.0445688,44.7801576,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> England </name>
+    <description> England </description>
+    <Point>
+      <coordinates> -1.1743197,52.3555177,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  
+  <Placemark>
+    <name> Zion </name>
+    <description> Zion </description>
+    <Point>
+      <coordinates> -112.986316,37.200022,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Cuba </name>
+    <description> Cuba </description>
+    <Point>
+      <coordinates> -77.781167,21.521757,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Orr </name>
+    <description> Orr </description>
+    <Point>
+      <coordinates> -92.8310021,48.0535266,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> China </name>
+    <description> China </description>
+    <Point>
+      <coordinates> 104.195397,35.86166,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> America </name>
+    <description> America </description>
+    <Point>
+      <coordinates> -95.712891,37.09024,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> India </name>
+    <description> India </description>
+    <Point>
+      <coordinates> 78.96288,20.593684,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Lucknow </name>
+    <description> Lucknow </description>
+    <Point>
+      <coordinates> 80.9466832,26.8465108,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Florida </name>
+    <description> Florida </description>
+    <Point>
+      <coordinates> -81.5157535,27.6648274,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Orleans </name>
+    <description> Orleans </description>
+    <Point>
+      <coordinates> 1.909251,47.902964,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Guinea </name>
+    <description> Guinea </description>
+    <Point>
+      <coordinates> -9.696645,9.945587,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Asia </name>
+    <description> Asia </description>
+    <Point>
+      <coordinates> 100.6196553,34.047863,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Harpswell </name>
+    <description> Harpswell </description>
+    <Point>
+      <coordinates> -69.9598343,43.7864342,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Bahamas </name>
+    <description> Bahamas </description>
+    <Point>
+      <coordinates> -77.39628,25.03428,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name> Europe </name>
+    <description> Europe </description>
+    <Point>
+      <coordinates> 15.2551187,54.5259614,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Egeria </name>
+    <description> Egeria </description>
+    <Point>
+      <coordinates> -81.2,37.5391667,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Denmark </name>
+    <description> Denmark </description>
+    <Point>
+      <coordinates> 9.501785,56.26392,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Calcutta </name>
+    <description> Calcutta </description>
+    <Point>
+      <coordinates> 88.363895,22.572646,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Genoa </name>
+    <description> Genoa </description>
+    <Point>
+      <coordinates> 8.946256,44.4056499,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Kadesh </name>
+    <description> Kadesh </description>
+    <Point>
+      <coordinates> -92.9112686,31.7043331,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Versailles </name>
+    <description> Versailles </description>
+    <Point>
+      <coordinates> 2.130122,48.801408,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Israel </name>
+    <description> Israel </description>
+    <Point>
+      <coordinates> 34.851612,31.046051,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Iceland </name>
+    <description> Iceland </description>
+    <Point>
+      <coordinates> -19.020835,64.963051,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Galilee </name>
+    <description> Galilee </description>
+    <Point>
+      <coordinates> -75.1396151,41.7350884,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Marseilles </name>
+    <description> Marseilles </description>
+    <Point>
+      <coordinates> 5.36978,43.296482,0</coordinates>
+    </Point>
+  </Placemark>
+
+  
+  <Placemark>
+    <name> Greece </name>
+    <description> Greece </description>
+    <Point>
+      <coordinates> 21.824312,39.074208,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Syria </name>
+    <description> Syria </description>
+    <Point>
+      <coordinates> 38.996815,34.802075,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Jerusalem </name>
+    <description> Jerusalem </description>
+    <Point>
+      <coordinates> 35.21371,31.768319,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Augustine </name>
+    <description> Augustine </description>
+    <Point>
+      <coordinates> -101.3658004,38.7447864,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Egypt </name>
+    <description> Egypt </description>
+    <Point>
+      <coordinates> 30.802498,26.820553,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Benares </name>
+    <description> Benares </description>
+    <Point>
+      <coordinates> 82.9739144,25.3176452,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Warsaw </name>
+    <description> Warsaw </description>
+    <Point>
+      <coordinates> 21.0122287,52.2296756,0</coordinates>
+    </Point>
+  </Placemark>
+  
+ </Document>
+</kml>

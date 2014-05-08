@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+ <Document>
+ 
+  <Placemark>
+    <name> Canada </name>
+    <description> Canada </description>
+    <Point>
+      <coordinates> -106.346771,56.130366,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Mississippi </name>
+    <description> Mississippi </description>
+    <Point>
+      <coordinates> -89.3985283,32.3546679,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Switzerland </name>
+    <description> Switzerland </description>
+    <Point>
+      <coordinates> 8.227512,46.818188,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Connecticut </name>
+    <description> Connecticut </description>
+    <Point>
+      <coordinates> -73.087749,41.6032207,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Killarney </name>
+    <description> Killarney </description>
+    <Point>
+      <coordinates> -9.5044265,52.0599353,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Germany </name>
+    <description> Germany </description>
+    <Point>
+      <coordinates> 10.451526,51.165691,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Havana </name>
+    <description> Havana </description>
+    <Point>
+      <coordinates> -82.345189,23.0540698,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  
+  <Placemark>
+    <name> America </name>
+    <description> America </description>
+    <Point>
+      <coordinates> -95.712891,37.09024,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> England </name>
+    <description> England </description>
+    <Point>
+      <coordinates> -1.1743197,52.3555177,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Rio </name>
+    <description> Rio </description>
+    <Point>
+      <coordinates> -43.1970773,-22.9082998,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Stanley </name>
+    <description> Stanley </description>
+    <Point>
+      <coordinates> 114.2167592,22.2136725,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> France </name>
+    <description> France </description>
+    <Point>
+      <coordinates> 2.213749,46.227638,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Stockholm </name>
+    <description> Stockholm </description>
+    <Point>
+      <coordinates> 18.06491,59.32893,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Broadlawn </name>
+    <description> Broadlawn </description>
+    <Point>
+      <coordinates> -97.5245702,47.2610029,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> China </name>
+    <description> China </description>
+    <Point>
+      <coordinates> 104.195397,35.86166,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Massachusetts </name>
+    <description> Massachusetts </description>
+    <Point>
+      <coordinates> -71.3824374,42.4072107,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Philadelphy </name>
+    <description> Philadelphy </description>
+    <Point>
+      <coordinates> -75.163789,39.952335,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Indonesia </name>
+    <description> Indonesia </description>
+    <Point>
+      <coordinates> 113.921327,-0.789275,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Ironsides </name>
+    <description> Ironsides </description>
+    <Point>
+      <coordinates> -77.1597004,38.4917885,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Russie </name>
+    <description> Russie </description>
+    <Point>
+      <coordinates> 105.318756,61.52401,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Russia </name>
+    <description> Russia </description>
+    <Point>
+      <coordinates> 105.318756,61.52401,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Colonnade </name>
+    <description> Colonnade </description>
+    <Point>
+      <coordinates> -79.4666474,42.2099786,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Portugal </name>
+    <description> Portugal </description>
+    <Point>
+      <coordinates> -8.224454,39.399872,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> US </name>
+    <description> US </description>
+    <Point>
+      <coordinates> -95.712891,37.09024,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Pennsylvany </name>
+    <description> Pennsylvany </description>
+    <Point>
+      <coordinates> -77.1945247,41.2033216,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Indies </name>
+    <description> Indies </description>
+    <Point>
+      <coordinates> -80.2962981,27.3031076,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Crimea </name>
+    <description> Crimea </description>
+    <Point>
+      <coordinates> 34.102417,44.952117,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Brazil </name>
+    <description> Brazil </description>
+    <Point>
+      <coordinates> -51.92528,-14.235004,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Orleans </name>
+    <description> Orleans </description>
+    <Point>
+      <coordinates> 1.909251,47.902964,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Marseilles </name>
+    <description> Marseilles </description>
+    <Point>
+      <coordinates> 5.36978,43.296482,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Ireland </name>
+    <description> Ireland </description>
+    <Point>
+      <coordinates> -8.24389,53.41291,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Europe </name>
+    <description> Europe </description>
+    <Point>
+      <coordinates> 15.2551187,54.5259614,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Nahant </name>
+    <description> Nahant </description>
+    <Point>
+      <coordinates> -70.9188695,42.4265162,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Nauvoo </name>
+    <description> Nauvoo </description>
+    <Point>
+      <coordinates> -91.3848749,40.550042,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Alps </name>
+    <description> Alps </description>
+    <Point>
+      <coordinates> 10.0794644,46.5288067,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Pennsylvania </name>
+    <description> Pennsylvania </description>
+    <Point>
+      <coordinates> -77.1945247,41.2033216,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Henley </name>
+    <description> Henley </description>
+    <Point>
+      <coordinates> -0.902894,51.535764,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Thames </name>
+    <description> Thames </description>
+    <Point>
+      <coordinates> 175.5413497,-37.1384423,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Franklin </name>
+    <description> Franklin </description>
+    <Point>
+      <coordinates> -86.8688899,35.9250637,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Weathersfield </name>
+    <description> Weathersfield </description>
+    <Point>
+      <coordinates> -72.4625,43.3844444,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Rockaway </name>
+    <description> Rockaway </description>
+    <Point>
+      <coordinates> -73.7977928,40.592658,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Africa </name>
+    <description> Africa </description>
+    <Point>
+      <coordinates> 34.508523,-8.783195,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Niagara </name>
+    <description> Niagara </description>
+    <Point>
+      <coordinates> -87.9948467,45.7713461,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Italy </name>
+    <description> Italy </description>
+    <Point>
+      <coordinates> 12.56738,41.87194,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Philadelphia </name>
+    <description> Philadelphia </description>
+    <Point>
+      <coordinates> -75.163789,39.952335,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Netherlands </name>
+    <description> Netherlands </description>
+    <Point>
+      <coordinates> 5.291266,52.132633,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Long-Island </name>
+    <description> Long-Island </description>
+    <Point>
+      <coordinates> -73.1349605,40.7891424,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Virginia </name>
+    <description> Virginia </description>
+    <Point>
+      <coordinates> -78.6568942,37.4315734,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Greatwood </name>
+    <description> Greatwood </description>
+    <Point>
+      <coordinates> -95.6757811,29.5541259,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Atlantic </name>
+    <description> Atlantic </description>
+    <Point>
+      <coordinates> -95.0138776,41.4036007,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Jakarta </name>
+    <description> Jakarta </description>
+    <Point>
+      <coordinates> 106.845599,-6.2087634,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Houston </name>
+    <description> Houston </description>
+    <Point>
+      <coordinates> -95.3693896,29.7601927,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Ceres </name>
+    <description> Ceres </description>
+    <Point>
+      <coordinates> -61.9491615,-29.8828106,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Egypt </name>
+    <description> Egypt </description>
+    <Point>
+      <coordinates> 30.802498,26.820553,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Nantucket </name>
+    <description> Nantucket </description>
+    <Point>
+      <coordinates> -70.099451,41.2834704,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Greece </name>
+    <description> Greece </description>
+    <Point>
+      <coordinates> 21.824312,39.074208,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Schenectady </name>
+    <description> Schenectady </description>
+    <Point>
+      <coordinates> -73.9395687,42.8142432,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Ellsworth </name>
+    <description> Ellsworth </description>
+    <Point>
+      <coordinates> -68.4194641,44.5434095,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Petersburgh </name>
+    <description> Petersburgh </description>
+    <Point>
+      <coordinates> -73.3472901,42.7754689,0</coordinates>
+    </Point>
+  </Placemark>
+  
+ </Document>
+</kml>

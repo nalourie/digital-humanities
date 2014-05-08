@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+ <Document>
+
+  
+  <Placemark>
+    <name> Asia </name>
+    <description> Asia </description>
+    <Point>
+      <coordinates> 100.6196553,34.047863,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Nazareth </name>
+    <description> Nazareth </description>
+    <Point>
+      <coordinates> 35.303546,32.699635,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Europe </name>
+    <description> Europe </description>
+    <Point>
+      <coordinates> 15.2551187,54.5259614,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Atlantic </name>
+    <description> Atlantic </description>
+    <Point>
+      <coordinates> -95.0138776,41.4036007,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> America </name>
+    <description> America </description>
+    <Point>
+      <coordinates> -95.712891,37.09024,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Mapleton </name>
+    <description> Mapleton </description>
+    <Point>
+      <coordinates> 152.8664312,-26.6236373,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  
+  <Placemark>
+    <name> Cod </name>
+    <description> Cod </description>
+    <Point>
+      <coordinates> -109.0565308,44.5263422,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> England </name>
+    <description> England </description>
+    <Point>
+      <coordinates> -1.1743197,52.3555177,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  
+  <Placemark>
+    <name> Biah </name>
+    <description> Biah </description>
+    <Point>
+      <coordinates> 108.4921492,13.4038774,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Africa </name>
+    <description> Africa </description>
+    <Point>
+      <coordinates> 34.508523,-8.783195,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> India </name>
+    <description> India </description>
+    <Point>
+      <coordinates> 78.96288,20.593684,0</coordinates>
+    </Point>
+  </Placemark>
+  
+ </Document>
+</kml>

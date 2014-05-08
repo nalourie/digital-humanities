@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+ <Document>
+ 
+  <Placemark>
+    <name> France </name>
+    <description> France </description>
+    <Point>
+      <coordinates> 2.213749,46.227638,0</coordinates>
+    </Point>
+  </Placemark>
+ 
+  <Placemark>
+    <name> Devon </name>
+    <description> Devon </description>
+    <Point>
+      <coordinates> -3.999461,50.7772135,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Alaska </name>
+    <description> Alaska </description>
+    <Point>
+      <coordinates> -149.4936733,64.2008413,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Seacliff </name>
+    <description> Seacliff </description>
+    <Point>
+      <coordinates> -122.4907,37.785941,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> England </name>
+    <description> England </description>
+    <Point>
+      <coordinates> -1.1743197,52.3555177,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Leicester </name>
+    <description> Leicester </description>
+    <Point>
+      <coordinates> -1.1397592,52.6368778,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Eton </name>
+    <description> Eton </description>
+    <Point>
+      <coordinates> -84.763272,34.82508,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Danesly </name>
+    <description> Danesly </description>
+    <Point>
+      <coordinates> -91.5689802,35.3190397,0</coordinates>
+    </Point>
+  </Placemark>
+  
+ </Document>
+</kml>

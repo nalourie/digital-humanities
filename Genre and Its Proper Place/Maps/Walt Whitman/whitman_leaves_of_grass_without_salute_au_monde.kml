@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+ <Document>
+ 
+  <Placemark>
+    <name> Canada </name>
+    <description> Canada </description>
+    <Point>
+      <coordinates> -106.346771,56.130366,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Mississippi </name>
+    <description> Mississippi </description>
+    <Point>
+      <coordinates> -89.3985283,32.3546679,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Orleans </name>
+    <description> Orleans </description>
+    <Point>
+      <coordinates> 1.909251,47.902964,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Walla-Walla </name>
+    <description> Walla-Walla </description>
+    <Point>
+      <coordinates> -118.3430209,46.0645809,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Minnesota </name>
+    <description> Minnesota </description>
+    <Point>
+      <coordinates> -94.6858998,46.729553,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Virginia </name>
+    <description> Virginia </description>
+    <Point>
+      <coordinates> -78.6568942,37.4315734,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Ethiopia </name>
+    <description> Ethiopia </description>
+    <Point>
+      <coordinates> 40.489673,9.145,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Wabash </name>
+    <description> Wabash </description>
+    <Point>
+      <coordinates> -85.8205411,40.797821,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Louisiana </name>
+    <description> Louisiana </description>
+    <Point>
+      <coordinates> -91.9623327,30.9842977,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Texas </name>
+    <description> Texas </description>
+    <Point>
+      <coordinates> -99.9018131,31.9685988,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Kansas </name>
+    <description> Kansas </description>
+    <Point>
+      <coordinates> -98.4842465,39.011902,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Altamahaw </name>
+    <description> Altamahaw </description>
+    <Point>
+      <coordinates> -79.5072461,36.1843016,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Yellowstone </name>
+    <description> Yellowstone </description>
+    <Point>
+      <coordinates> -110.588455,44.427963,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Spain </name>
+    <description> Spain </description>
+    <Point>
+      <coordinates> -3.74922,40.463667,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> TOWN </name>
+    <description> TOWN </description>
+    <Point>
+      <coordinates> -88.2141229,46.8734446,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Scandinavia </name>
+    <description> Scandinavia </description>
+    <Point>
+      <coordinates> 12.3401708,62.2786475,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Island </name>
+    <description> Island </description>
+    <Point>
+      <coordinates> -19.020835,64.963051,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Missouri </name>
+    <description> Missouri </description>
+    <Point>
+      <coordinates> -91.8318334,37.9642529,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> England </name>
+    <description> England </description>
+    <Point>
+      <coordinates> -1.1743197,52.3555177,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Illinois </name>
+    <description> Illinois </description>
+    <Point>
+      <coordinates> -89.3985283,40.6331249,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Jersey </name>
+    <description> Jersey </description>
+    <Point>
+      <coordinates> -2.13125,49.214439,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Penobscot </name>
+    <description> Penobscot </description>
+    <Point>
+      <coordinates> -68.8178022,44.4455184,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Aliaska </name>
+    <description> Aliaska </description>
+    <Point>
+      <coordinates> -149.4936733,64.2008413,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> San </name>
+    <description> San </description>
+    <Point>
+      <coordinates> 44.1910066,15.3694451,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> India </name>
+    <description> India </description>
+    <Point>
+      <coordinates> 78.96288,20.593684,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> FRANCE </name>
+    <description> FRANCE </description>
+    <Point>
+      <coordinates> 2.213749,46.227638,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Rio </name>
+    <description> Rio </description>
+    <Point>
+      <coordinates> -43.1970773,-22.9082998,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Kaqueta </name>
+    <description> Kaqueta </description>
+    <Point>
+      <coordinates> -100.382235,18.672014,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> France </name>
+    <description> France </description>
+    <Point>
+      <coordinates> 2.213749,46.227638,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> New </name>
+    <description> New </description>
+    <Point>
+      <coordinates> -2.5886,51.4572,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Maryland </name>
+    <description> Maryland </description>
+    <Point>
+      <coordinates> -76.6412712,39.0457549,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> East </name>
+    <description> East </description>
+    <Point>
+      <coordinates> -104.9133646,39.7278109,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Red </name>
+    <description> Red </description>
+    <Point>
+      <coordinates> -95.7735566,32.7855716,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Carolina </name>
+    <description> Carolina </description>
+    <Point>
+      <coordinates> -65.9573872,18.3807819,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Wisconsin </name>
+    <description> Wisconsin </description>
+    <Point>
+      <coordinates> -88.7878678,43.7844397,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Cuba </name>
+    <description> Cuba </description>
+    <Point>
+      <coordinates> -77.781167,21.521757,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Susquehanna </name>
+    <description> Susquehanna </description>
+    <Point>
+      <coordinates> -75.5991789,41.9436071,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Saskatchewan </name>
+    <description> Saskatchewan </description>
+    <Point>
+      <coordinates> -106.4508639,52.9399159,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Michigan </name>
+    <description> Michigan </description>
+    <Point>
+      <coordinates> -85.6023643,44.3148443,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Tombigbee </name>
+    <description> Tombigbee </description>
+    <Point>
+      <coordinates> -88.0613094,31.4441777,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Oregon </name>
+    <description> Oregon </description>
+    <Point>
+      <coordinates> -120.5542012,43.8041334,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> moon </name>
+    <description> moon </description>
+    <Point>
+      <coordinates> -80.2213477,40.5169767,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> north-west </name>
+    <description> north-west </description>
+    <Point>
+      <coordinates> 25.2837585,-26.6638599,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> China </name>
+    <description> China </description>
+    <Point>
+      <coordinates> 104.195397,35.86166,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Massachusetts </name>
+    <description> Massachusetts </description>
+    <Point>
+      <coordinates> -71.3824374,42.4072107,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Niagara </name>
+    <description> Niagara </description>
+    <Point>
+      <coordinates> -87.9948467,45.7713461,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> America </name>
+    <description> America </description>
+    <Point>
+      <coordinates> -95.712891,37.09024,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Town </name>
+    <description> Town </description>
+    <Point>
+      <coordinates> -88.2141229,46.8734446,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Florida </name>
+    <description> Florida </description>
+    <Point>
+      <coordinates> -81.5157535,27.6648274,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> FLAG </name>
+    <description> FLAG </description>
+    <Point>
+      <coordinates> -92.3943249,35.8192429,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> IRELAND </name>
+    <description> IRELAND </description>
+    <Point>
+      <coordinates> -8.24389,53.41291,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Sauk </name>
+    <description> Sauk </description>
+    <Point>
+      <coordinates> 100.9438222,4.927291,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Ohio </name>
+    <description> Ohio </description>
+    <Point>
+      <coordinates> -82.907123,40.4172871,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Calydon </name>
+    <description> Calydon </description>
+    <Point>
+      <coordinates> -6.1001366,53.2769131,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Rappahannock </name>
+    <description> Rappahannock </description>
+    <Point>
+      <coordinates> -76.675922,37.7989119,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Nueces </name>
+    <description> Nueces </description>
+    <Point>
+      <coordinates> -97.4814163,27.7693351,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Asia </name>
+    <description> Asia </description>
+    <Point>
+      <coordinates> 100.6196553,34.047863,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Sitka </name>
+    <description> Sitka </description>
+    <Point>
+      <coordinates> -135.33,57.0530556,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Arkansas </name>
+    <description> Arkansas </description>
+    <Point>
+      <coordinates> -91.8318334,35.20105,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Europe </name>
+    <description> Europe </description>
+    <Point>
+      <coordinates> 15.2551187,54.5259614,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Russia </name>
+    <description> Russia </description>
+    <Point>
+      <coordinates> 105.318756,61.52401,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Brooklyn </name>
+    <description> Brooklyn </description>
+    <Point>
+      <coordinates> -73.9902778,40.6927778,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> California </name>
+    <description> California </description>
+    <Point>
+      <coordinates> -119.4179324,36.778261,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Chattahoochee </name>
+    <description> Chattahoochee </description>
+    <Point>
+      <coordinates> -84.8429759,30.7051916,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Lincoln </name>
+    <description> Lincoln </description>
+    <Point>
+      <coordinates> -96.6752778,40.8097222,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Pennsylvania </name>
+    <description> Pennsylvania </description>
+    <Point>
+      <coordinates> -77.1945247,41.2033216,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Ottawa </name>
+    <description> Ottawa </description>
+    <Point>
+      <coordinates> -75.6971931,45.4215296,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Philadelphia </name>
+    <description> Philadelphia </description>
+    <Point>
+      <coordinates> -75.163789,39.952335,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Monongahela </name>
+    <description> Monongahela </description>
+    <Point>
+      <coordinates> -79.9261603,40.2031265,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Colorado </name>
+    <description> Colorado </description>
+    <Point>
+      <coordinates> -105.7820674,39.5500507,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> des </name>
+    <description> des </description>
+    <Point>
+      <coordinates> 23.8787342,47.1415878,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Africa </name>
+    <description> Africa </description>
+    <Point>
+      <coordinates> 34.508523,-8.783195,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Sea </name>
+    <description> Sea </description>
+    <Point>
+      <coordinates> -122.300497,47.44443,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Phoenicia </name>
+    <description> Phoenicia </description>
+    <Point>
+      <coordinates> -74.3154254,42.0848126,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> EUROPE </name>
+    <description> EUROPE </description>
+    <Point>
+      <coordinates> 15.2551187,54.5259614,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Italy </name>
+    <description> Italy </description>
+    <Point>
+      <coordinates> 12.56738,41.87194,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Chicago </name>
+    <description> Chicago </description>
+    <Point>
+      <coordinates> -87.6297982,41.8781136,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Prussia </name>
+    <description> Prussia </description>
+    <Point>
+      <coordinates> -94.506357,41.3738765,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> How </name>
+    <description> How </description>
+    <Point>
+      <coordinates> -88.4210006,44.9704651,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Potomac </name>
+    <description> Potomac </description>
+    <Point>
+      <coordinates> -77.2085914,39.0181651,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Libertad </name>
+    <description> Libertad </description>
+    <Point>
+      <coordinates> -58.6834717,-34.7003212,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Cudge </name>
+    <description> Cudge </description>
+    <Point>
+      <coordinates> -85.8432131,35.6465002,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Okonee </name>
+    <description> Okonee </description>
+    <Point>
+      <coordinates> -82.9931607,34.749245,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Atlantic </name>
+    <description> Atlantic </description>
+    <Point>
+      <coordinates> -95.0138776,41.4036007,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Vermont </name>
+    <description> Vermont </description>
+    <Point>
+      <coordinates> -72.5778415,44.5588028,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> &#39;s </name>
+    <description> &#39;s </description>
+    <Point>
+      <coordinates> -64.7162415,-25.2529539,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Greece </name>
+    <description> Greece </description>
+    <Point>
+      <coordinates> 21.824312,39.074208,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Kentucky </name>
+    <description> Kentucky </description>
+    <Point>
+      <coordinates> -84.2700179,37.8393332,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Nebraska </name>
+    <description> Nebraska </description>
+    <Point>
+      <coordinates> -99.9018131,41.4925374,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Iowa </name>
+    <description> Iowa </description>
+    <Point>
+      <coordinates> -93.097702,41.8780025,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Alabama </name>
+    <description> Alabama </description>
+    <Point>
+      <coordinates> -86.902298,32.3182314,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> St </name>
+    <description> St </description>
+    <Point>
+      <coordinates> 6.613081,0.18636,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Mexican </name>
+    <description> Mexican </description>
+    <Point>
+      <coordinates> -94.4657729,18.116992,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Egypt </name>
+    <description> Egypt </description>
+    <Point>
+      <coordinates> 30.802498,26.820553,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Assyria </name>
+    <description> Assyria </description>
+    <Point>
+      <coordinates> -85.1313852,42.4644819,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Tennessee </name>
+    <description> Tennessee </description>
+    <Point>
+      <coordinates> -86.5804473,35.5174913,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Teutonia </name>
+    <description> Teutonia </description>
+    <Point>
+      <coordinates> -51.8073613,-29.4469411,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Earth </name>
+    <description> Earth </description>
+    <Point>
+      <coordinates> -102.4107493,34.2331373,0</coordinates>
+    </Point>
+  </Placemark>
+  
+ </Document>
+</kml>

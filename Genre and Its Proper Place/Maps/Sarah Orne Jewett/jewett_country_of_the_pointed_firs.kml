@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+ <Document>
+ 
+  <Placemark>
+    <name> Squaw </name>
+    <description> Squaw </description>
+    <Point>
+      <coordinates> -108.6894444,37.1261111,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Bowden </name>
+    <description> Bowden </description>
+    <Point>
+      <coordinates> -79.7097836,38.9087197,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Fessenden </name>
+    <description> Fessenden </description>
+    <Point>
+      <coordinates> -99.629289,47.6491683,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Vermont </name>
+    <description> Vermont </description>
+    <Point>
+      <coordinates> -72.5778415,44.5588028,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> France </name>
+    <description> France </description>
+    <Point>
+      <coordinates> 2.213749,46.227638,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Dunnet </name>
+    <description> Dunnet </description>
+    <Point>
+      <coordinates> -3.345206,58.622821,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name> Massachusetts </name>
+    <description> Massachusetts </description>
+    <Point>
+      <coordinates> -71.3824374,42.4072107,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Miranda </name>
+    <description> Miranda </description>
+    <Point>
+      <coordinates> -2.949852,42.686258,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> America </name>
+    <description> America </description>
+    <Point>
+      <coordinates> -95.712891,37.09024,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Greenland </name>
+    <description> Greenland </description>
+    <Point>
+      <coordinates> -42.604303,71.706936,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  
+  <Placemark>
+    <name> Bordeaux </name>
+    <description> Bordeaux </description>
+    <Point>
+      <coordinates> -0.57918,44.837789,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  
+  <Placemark>
+    <name> England </name>
+    <description> England </description>
+    <Point>
+      <coordinates> -1.1743197,52.3555177,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  
+  
+ </Document>
+</kml>

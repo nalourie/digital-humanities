@@ -1,0 +1,1 @@
+Texts in this folder have all been pulled either from Project Gutenburg or the Gutenburg Consortium. The license information has been removed to allow better data to be computed from the texts.

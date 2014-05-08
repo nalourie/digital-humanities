@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+ <Document>
+  
+  <Placemark>
+    <name> Wayland </name>
+    <description> Wayland </description>
+    <Point>
+      <coordinates> -71.3614484,42.3625953,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Ireland </name>
+    <description> Ireland </description>
+    <Point>
+      <coordinates> -8.24389,53.41291,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> New </name>
+    <description> New </description>
+    <Point>
+      <coordinates> -2.5886,51.4572,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Piscataqua </name>
+    <description> Piscataqua </description>
+    <Point>
+      <coordinates> -70.7928323,43.1006432,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Betsey </name>
+    <description> Betsey </description>
+    <Point>
+      <coordinates> -84.7429981,36.9036852,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Ogunquit </name>
+    <description> Ogunquit </description>
+    <Point>
+      <coordinates> -70.6071319,43.247231,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Jordan </name>
+    <description> Jordan </description>
+    <Point>
+      <coordinates> 36.238414,30.585164,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Virginia </name>
+    <description> Virginia </description>
+    <Point>
+      <coordinates> -78.6568942,37.4315734,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> England </name>
+    <description> England </description>
+    <Point>
+      <coordinates> -1.1743197,52.3555177,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Middleton </name>
+    <description> Middleton </description>
+    <Point>
+      <coordinates> -2.2019479,53.545921,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> California </name>
+    <description> California </description>
+    <Point>
+      <coordinates> -119.4179324,36.778261,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> China </name>
+    <description> China </description>
+    <Point>
+      <coordinates> 104.195397,35.86166,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Beaufort </name>
+    <description> Beaufort </description>
+    <Point>
+      <coordinates> 6.2925122,49.8353307,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Massachusetts </name>
+    <description> Massachusetts </description>
+    <Point>
+      <coordinates> -71.3824374,42.4072107,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Lane </name>
+    <description> Lane </description>
+    <Point>
+      <coordinates> -122.6618227,43.9610092,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Queenstown </name>
+    <description> Queenstown </description>
+    <Point>
+      <coordinates> 168.6626435,-45.0311622,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Briggsville </name>
+    <description> Briggsville </description>
+    <Point>
+      <coordinates> -89.5854005,43.6549795,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Glengariff </name>
+    <description> Glengariff </description>
+    <Point>
+      <coordinates> -9.5522224,51.7500277,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  
+  <Placemark>
+    <name> Sanscrit </name>
+    <description> Sanscrit </description>
+    <Point>
+      <coordinates> 72.8376546,19.0302191,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> America </name>
+    <description> America </description>
+    <Point>
+      <coordinates> -95.712891,37.09024,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Sydenham </name>
+    <description> Sydenham </description>
+    <Point>
+      <coordinates> 144.7694517,-37.6960526,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> India </name>
+    <description> India </description>
+    <Point>
+      <coordinates> 78.96288,20.593684,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Wilby </name>
+    <description> Wilby </description>
+    <Point>
+      <coordinates> -0.727033,52.285401,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Madeira </name>
+    <description> Madeira </description>
+    <Point>
+      <coordinates> -16.9594723,32.7607074,0</coordinates>
+    </Point>
+  </Placemark>
+  
+ </Document>
+</kml>

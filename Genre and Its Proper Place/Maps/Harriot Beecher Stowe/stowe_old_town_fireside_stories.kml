@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+ <Document>
+ 
+  <Placemark>
+    <name> Canada </name>
+    <description> Canada </description>
+    <Point>
+      <coordinates> -106.346771,56.130366,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Italy </name>
+    <description> Italy </description>
+    <Point>
+      <coordinates> 12.56738,41.87194,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> France </name>
+    <description> France </description>
+    <Point>
+      <coordinates> 2.213749,46.227638,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> New-England </name>
+    <description> New-England </description>
+    <Point>
+      <coordinates> -70.8226541,43.9653889,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  
+  <Placemark>
+    <name> Harpswell </name>
+    <description> Harpswell </description>
+    <Point>
+      <coordinates> -69.9598343,43.7864342,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Chiny </name>
+    <description> Chiny </description>
+    <Point>
+      <coordinates> 104.195397,35.86166,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Atlantic </name>
+    <description> Atlantic </description>
+    <Point>
+      <coordinates> -95.0138776,41.4036007,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Massachusetts </name>
+    <description> Massachusetts </description>
+    <Point>
+      <coordinates> -71.3824374,42.4072107,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Guinea </name>
+    <description> Guinea </description>
+    <Point>
+      <coordinates> -9.696645,9.945587,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Spain </name>
+    <description> Spain </description>
+    <Point>
+      <coordinates> -3.74922,40.463667,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  
+  <Placemark>
+    <name> Lommedieu </name>
+    <description> Lommedieu </description>
+    <Point>
+      <coordinates> -76.8365246,42.352638,0</coordinates>
+    </Point>
+  </Placemark>
+
+  
+  <Placemark>
+    <name> Quassia </name>
+    <description> Quassia </description>
+    <Point>
+      <coordinates> 5.4487476,43.2829774,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Sherburne </name>
+    <description> Sherburne </description>
+    <Point>
+      <coordinates> -93.7298983,45.4644612,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Japan </name>
+    <description> Japan </description>
+    <Point>
+      <coordinates> 138.252924,36.204824,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> America </name>
+    <description> America </description>
+    <Point>
+      <coordinates> -95.712891,37.09024,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> England </name>
+    <description> England </description>
+    <Point>
+      <coordinates> -1.1743197,52.3555177,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  
+  <Placemark>
+    <name> Penobscot </name>
+    <description> Penobscot </description>
+    <Point>
+      <coordinates> -68.8178022,44.4455184,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  
+  <Placemark>
+    <name> India </name>
+    <description> India </description>
+    <Point>
+      <coordinates> 78.96288,20.593684,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Bostin </name>
+    <description> Bostin </description>
+    <Point>
+      <coordinates> 18.2104193,45.9500492,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Jerusalem </name>
+    <description> Jerusalem </description>
+    <Point>
+      <coordinates> 35.21371,31.768319,0</coordinates>
+    </Point>
+  </Placemark>
+  
+ </Document>
+</kml>

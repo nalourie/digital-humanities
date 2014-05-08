@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+ <Document>
+ 
+  <Placemark>
+    <name> Brazil </name>
+    <description> Brazil </description>
+    <Point>
+      <coordinates> -51.92528,-14.235004,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Italy </name>
+    <description> Italy </description>
+    <Point>
+      <coordinates> 12.56738,41.87194,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Boanerges </name>
+    <description> Boanerges </description>
+    <Point>
+      <coordinates> 107.016206,-6.330724,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Guinea </name>
+    <description> Guinea </description>
+    <Point>
+      <coordinates> -9.696645,9.945587,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Potomac </name>
+    <description> Potomac </description>
+    <Point>
+      <coordinates> -77.2085914,39.0181651,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Peru </name>
+    <description> Peru </description>
+    <Point>
+      <coordinates> -75.015152,-9.189967,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Nazareth </name>
+    <description> Nazareth </description>
+    <Point>
+      <coordinates> 35.303546,32.699635,0</coordinates>
+    </Point>
+  </Placemark>
+
+  
+  <Placemark>
+    <name> Europe </name>
+    <description> Europe </description>
+    <Point>
+      <coordinates> 15.2551187,54.5259614,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> MASSACHUSETTS </name>
+    <description> MASSACHUSETTS </description>
+    <Point>
+      <coordinates> -71.3824374,42.4072107,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  
+  <Placemark>
+    <name> Tunis </name>
+    <description> Tunis </description>
+    <Point>
+      <coordinates> 10.1815316,36.8064948,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Vevay </name>
+    <description> Vevay </description>
+    <Point>
+      <coordinates> -85.0671725,38.7478401,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  
+  <Placemark>
+    <name> England </name>
+    <description> England </description>
+    <Point>
+      <coordinates> -1.1743197,52.3555177,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Lapland </name>
+    <description> Lapland </description>
+    <Point>
+      <coordinates> 26.5046438,67.9222304,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> India </name>
+    <description> India </description>
+    <Point>
+      <coordinates> 78.96288,20.593684,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name> New England </name>
+    <description> New England </description>
+    <Point>
+      <coordinates> -71.3824374,42.4072107,0</coordinates>
+    </Point>
+  </Placemark>
+  
+ </Document>
+</kml>

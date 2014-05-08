@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+ <Document>
+ 
+  <Placemark>
+    <name> Wishin </name>
+    <description> Wishin </description>
+    <Point>
+      <coordinates> 69.2033333,33.1213889,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Birchy </name>
+    <description> Birchy </description>
+    <Point>
+      <coordinates> -1.843006,52.3863081,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> India </name>
+    <description> India </description>
+    <Point>
+      <coordinates> 78.96288,20.593684,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Scotland </name>
+    <description> Scotland </description>
+    <Point>
+      <coordinates> -4.2026458,56.4906712,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Ashford </name>
+    <description> Ashford </description>
+    <Point>
+      <coordinates> 0.875019,51.1464659,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Ireland </name>
+    <description> Ireland </description>
+    <Point>
+      <coordinates> -8.24389,53.41291,0</coordinates>
+    </Point>
+  </Placemark>
+
+  
+  <Placemark>
+    <name> Jane </name>
+    <description> Jane </description>
+    <Point>
+      <coordinates> 8.946256,44.4056499,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Wales </name>
+    <description> Wales </description>
+    <Point>
+      <coordinates> -3.7837117,52.1306607,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Europe </name>
+    <description> Europe </description>
+    <Point>
+      <coordinates> 15.2551187,54.5259614,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  
+  <Placemark>
+    <name> Madrid </name>
+    <description> Madrid </description>
+    <Point>
+      <coordinates> -3.7037902,40.4167754,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Landing </name>
+    <description> Landing </description>
+    <Point>
+      <coordinates> -74.6656952,40.9054107,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> China </name>
+    <description> China </description>
+    <Point>
+      <coordinates> 104.195397,35.86166,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> America </name>
+    <description> America </description>
+    <Point>
+      <coordinates> -95.712891,37.09024,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Queenstown </name>
+    <description> Queenstown </description>
+    <Point>
+      <coordinates> 168.6626435,-45.0311622,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Caplin </name>
+    <description> Caplin </description>
+    <Point>
+      <coordinates> 151.9799274,7.1898504,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Dublin </name>
+    <description> Dublin </description>
+    <Point>
+      <coordinates> -6.2603097,53.3498053,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Israel </name>
+    <description> Israel </description>
+    <Point>
+      <coordinates> 34.851612,31.046051,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name> Dunnet </name>
+    <description> Dunnet </description>
+    <Point>
+      <coordinates> -3.345206,58.622821,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  
+  <Placemark>
+    <name> Bordeaux </name>
+    <description> Bordeaux </description>
+    <Point>
+      <coordinates> -0.57918,44.837789,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> England </name>
+    <description> England </description>
+    <Point>
+      <coordinates> -1.1743197,52.3555177,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Castine </name>
+    <description> Castine </description>
+    <Point>
+      <coordinates> -68.7989582,44.3888609,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Sicily </name>
+    <description> Sicily </description>
+    <Point>
+      <coordinates> 14.0153557,37.5999938,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Nora </name>
+    <description> Nora </description>
+    <Point>
+      <coordinates> 15.0378667,59.5192064,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Thames </name>
+    <description> Thames </description>
+    <Point>
+      <coordinates> 175.5413497,-37.1384423,0</coordinates>
+    </Point>
+  </Placemark>
+  
+ </Document>
+</kml>

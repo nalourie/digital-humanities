@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+ <Document>
+ 
+  <Placemark>
+    <name> Haverford </name>
+    <description> Haverford </description>
+    <Point>
+      <coordinates> -75.3208107,40.0022406,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> France </name>
+    <description> France </description>
+    <Point>
+      <coordinates> 2.213749,46.227638,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Europe </name>
+    <description> Europe </description>
+    <Point>
+      <coordinates> 15.2551187,54.5259614,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Noroway </name>
+    <description> Noroway </description>
+    <Point>
+      <coordinates> 8.468946,60.472024,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Galilee </name>
+    <description> Galilee </description>
+    <Point>
+      <coordinates> -75.1396151,41.7350884,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> China </name>
+    <description> China </description>
+    <Point>
+      <coordinates> 104.195397,35.86166,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> America </name>
+    <description> America </description>
+    <Point>
+      <coordinates> -95.712891,37.09024,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Sweden </name>
+    <description> Sweden </description>
+    <Point>
+      <coordinates> 18.643501,60.128161,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Delft </name>
+    <description> Delft </description>
+    <Point>
+      <coordinates> 4.3570677,52.0115769,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> New-England </name>
+    <description> New-England </description>
+    <Point>
+      <coordinates> -70.8226541,43.9653889,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> England </name>
+    <description> England </description>
+    <Point>
+      <coordinates> -1.1743197,52.3555177,0</coordinates>
+    </Point>
+  </Placemark>
+  
+ </Document>
+</kml>

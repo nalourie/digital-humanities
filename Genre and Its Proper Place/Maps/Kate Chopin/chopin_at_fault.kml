@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+ <Document>
+ 
+  <Placemark>
+    <name> New Orleans </name>
+    <description> New Orleans </description>
+    <Point>
+      <coordinates> 1.909251,47.902964,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Hosmer </name>
+    <description> Hosmer </description>
+    <Point>
+      <coordinates> -99.4748399,45.5788675,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> France </name>
+    <description> France </description>
+    <Point>
+      <coordinates> 2.213749,46.227638,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Vandervoort </name>
+    <description> Vandervoort </description>
+    <Point>
+      <coordinates> -94.3657673,34.3814972,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Natchitoches </name>
+    <description> Natchitoches </description>
+    <Point>
+      <coordinates> -93.0862749,31.7607195,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Louisiana </name>
+    <description> Louisiana </description>
+    <Point>
+      <coordinates> -91.9623327,30.9842977,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Fanny </name>
+    <description> Fanny </description>
+    <Point>
+      <coordinates> -81.631653,37.5658109,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Racine </name>
+    <description> Racine </description>
+    <Point>
+      <coordinates> -87.7828523,42.7261309,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Biddle </name>
+    <description> Biddle </description>
+    <Point>
+      <coordinates> -105.3382021,45.0994344,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Tenez </name>
+    <description> Tenez </description>
+    <Point>
+      <coordinates> 1.3602778,36.5525,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> California </name>
+    <description> California </description>
+    <Point>
+      <coordinates> -119.4179324,36.778261,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Texas </name>
+    <description> Texas </description>
+    <Point>
+      <coordinates> -99.9018131,31.9685988,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Creoles </name>
+    <description> Creoles </description>
+    <Point>
+      <coordinates> 57.6747222,-20.3813889,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Melicent </name>
+    <description> Melicent </description>
+    <Point>
+      <coordinates> -106.5500421,31.8398374,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Havana </name>
+    <description> Havana </description>
+    <Point>
+      <coordinates> -82.345189,23.0540698,0</coordinates>
+    </Point>
+  </Placemark>
+
+  
+  <Placemark>
+    <name> Juba </name>
+    <description> Juba </description>
+    <Point>
+      <coordinates> 31.6,4.85,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Beauregard </name>
+    <description> Beauregard </description>
+    <Point>
+      <coordinates> -90.3823144,31.7218319,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  
+  <Placemark>
+    <name> Houston </name>
+    <description> Houston </description>
+    <Point>
+      <coordinates> -95.3693896,29.7601927,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Cane </name>
+    <description> Cane </description>
+    <Point>
+      <coordinates> 21.3248689,48.607069,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  
+  <Placemark>
+    <name> India </name>
+    <description> India </description>
+    <Point>
+      <coordinates> 78.96288,20.593684,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Grammont </name>
+    <description> Grammont </description>
+    <Point>
+      <coordinates> 3.8751639,50.7707354,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Centerville </name>
+    <description> Centerville </description>
+    <Point>
+      <coordinates> -84.1593818,39.6283928,0</coordinates>
+    </Point>
+  </Placemark>
+  
+ </Document>
+</kml>

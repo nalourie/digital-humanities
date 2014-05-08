@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+ <Document>
+ 
+  <Placemark>
+    <name> Orleans </name>
+    <description> Orleans </description>
+    <Point>
+      <coordinates> 1.909251,47.902964,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Deephaven </name>
+    <description> Deephaven </description>
+    <Point>
+      <coordinates> -93.5224552,44.9296853,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Connecticut </name>
+    <description> Connecticut </description>
+    <Point>
+      <coordinates> -73.087749,41.6032207,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Charlestown </name>
+    <description> Charlestown </description>
+    <Point>
+      <coordinates> -71.0602131,42.3782065,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Navarino </name>
+    <description> Navarino </description>
+    <Point>
+      <coordinates> -88.4920454,44.6110978,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Havana </name>
+    <description> Havana </description>
+    <Point>
+      <coordinates> -82.345189,23.0540698,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> England </name>
+    <description> England </description>
+    <Point>
+      <coordinates> -1.1743197,52.3555177,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Eliot </name>
+    <description> Eliot </description>
+    <Point>
+      <coordinates> -70.8000544,43.1531427,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> India </name>
+    <description> India </description>
+    <Point>
+      <coordinates> 78.96288,20.593684,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Vermont </name>
+    <description> Vermont </description>
+    <Point>
+      <coordinates> -72.5778415,44.5588028,0</coordinates>
+    </Point>
+  </Placemark>
+ 
+  <Placemark>
+    <name> Winslow </name>
+    <description> Winslow </description>
+    <Point>
+      <coordinates> -110.6973571,35.0241873,0</coordinates>
+    </Point>
+  </Placemark>
+ 
+  <Placemark>
+    <name> China </name>
+    <description> China </description>
+    <Point>
+      <coordinates> 104.195397,35.86166,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Mahon </name>
+    <description> Mahon </description>
+    <Point>
+      <coordinates> 4.2596195,39.8873296,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Kew </name>
+    <description> Kew </description>
+    <Point>
+      <coordinates> 145.0310067,-37.8068202,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> America </name>
+    <description> America </description>
+    <Point>
+      <coordinates> -95.712891,37.09024,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Cadiz </name>
+    <description> Cadiz </description>
+    <Point>
+      <coordinates> -6.2885962,36.5270612,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Callao </name>
+    <description> Callao </description>
+    <Point>
+      <coordinates> -77.1259843,-12.0508491,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Russia </name>
+    <description> Russia </description>
+    <Point>
+      <coordinates> 105.318756,61.52401,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Indies </name>
+    <description> Indies </description>
+    <Point>
+      <coordinates> -80.2962981,27.3031076,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Japan </name>
+    <description> Japan </description>
+    <Point>
+      <coordinates> 138.252924,36.204824,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Piscataqua </name>
+    <description> Piscataqua </description>
+    <Point>
+      <coordinates> -70.7928323,43.1006432,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Europe </name>
+    <description> Europe </description>
+    <Point>
+      <coordinates> 15.2551187,54.5259614,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Denby </name>
+    <description> Denby </description>
+    <Point>
+      <coordinates> -1.4109719,53.013227,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Surrey </name>
+    <description> Surrey </description>
+    <Point>
+      <coordinates> -122.823134,49.186495,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Egypt </name>
+    <description> Egypt </description>
+    <Point>
+      <coordinates> 30.802498,26.820553,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Parsonsfield </name>
+    <description> Parsonsfield </description>
+    <Point>
+      <coordinates> -70.9286755,43.7270214,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Philadelphia </name>
+    <description> Philadelphia </description>
+    <Point>
+      <coordinates> -75.163789,39.952335,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Pactolus </name>
+    <description> Pactolus </description>
+    <Point>
+      <coordinates> 28.042774,38.52327,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Hope </name>
+    <description> Hope </description>
+    <Point>
+      <coordinates> -93.5915665,33.6670615,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Cranford </name>
+    <description> Cranford </description>
+    <Point>
+      <coordinates> -74.2995928,40.6584212,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Israel </name>
+    <description> Israel </description>
+    <Point>
+      <coordinates> 34.851612,31.046051,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Atlantic </name>
+    <description> Atlantic </description>
+    <Point>
+      <coordinates> -95.0138776,41.4036007,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Kentucky </name>
+    <description> Kentucky </description>
+    <Point>
+      <coordinates> -84.2700179,37.8393332,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Cod </name>
+    <description> Cod </description>
+    <Point>
+      <coordinates> -109.0565308,44.5263422,0</coordinates>
+    </Point>
+  </Placemark>
+  
+ </Document>
+</kml>

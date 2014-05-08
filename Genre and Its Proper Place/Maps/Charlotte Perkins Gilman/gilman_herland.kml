@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+ <Document>
+ 
+  <Placemark>
+    <name> Andorra </name>
+    <description> Andorra </description>
+    <Point>
+      <coordinates> 1.5218018,42.5062854,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Earth </name>
+    <description> Earth </description>
+    <Point>
+      <coordinates> -102.4107493,34.2331373,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Peru </name>
+    <description> Peru </description>
+    <Point>
+      <coordinates> -75.015152,-9.189967,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Europe </name>
+    <description> Europe </description>
+    <Point>
+      <coordinates> 15.2551187,54.5259614,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Montenegro </name>
+    <description> Montenegro </description>
+    <Point>
+      <coordinates> 19.37439,42.708678,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> China </name>
+    <description> China </description>
+    <Point>
+      <coordinates> 104.195397,35.86166,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> California </name>
+    <description> California </description>
+    <Point>
+      <coordinates> -119.4179324,36.778261,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Germany </name>
+    <description> Germany </description>
+    <Point>
+      <coordinates> 10.451526,51.165691,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Herland </name>
+    <description> Herland </description>
+    <Point>
+      <coordinates> 5.2842658,60.5997883,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Himalayas </name>
+    <description> Himalayas </description>
+    <Point>
+      <coordinates> 79.8158817,30.6327993,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Pyrenees </name>
+    <description> Pyrenees </description>
+    <Point>
+      <coordinates> 1,42.6666667,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Maaia </name>
+    <description> Maaia </description>
+    <Point>
+      <coordinates> 40.680099,-14.45601,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> America </name>
+    <description> America </description>
+    <Point>
+      <coordinates> -95.712891,37.09024,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Somel </name>
+    <description> Somel </description>
+    <Point>
+      <coordinates> -43.8544428,-22.8942035,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Egypt </name>
+    <description> Egypt </description>
+    <Point>
+      <coordinates> 30.802498,26.820553,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Greece </name>
+    <description> Greece </description>
+    <Point>
+      <coordinates> 21.824312,39.074208,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Japan </name>
+    <description> Japan </description>
+    <Point>
+      <coordinates> 138.252924,36.204824,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Antarctic </name>
+    <description> Antarctic </description>
+    <Point>
+      <coordinates> 55.1903678,25.2150624,0</coordinates>
+    </Point>
+  </Placemark>
+  
+ </Document>
+</kml>

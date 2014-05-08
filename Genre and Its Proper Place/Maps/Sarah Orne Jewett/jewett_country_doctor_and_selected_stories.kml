@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+ <Document>
+ 
+  <Placemark>
+    <name> Canada </name>
+    <description> Canada </description>
+    <Point>
+      <coordinates> -106.346771,56.130366,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Wayland </name>
+    <description> Wayland </description>
+    <Point>
+      <coordinates> -71.3614484,42.3625953,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name> Berrik </name>
+    <description> Berrik </description>
+    <Point>
+      <coordinates> -8.3785975,51.9156012,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Spain </name>
+    <description> Spain </description>
+    <Point>
+      <coordinates> -3.74922,40.463667,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Danes </name>
+    <description> Danes </description>
+    <Point>
+      <coordinates> 24.7015179,46.222477,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Ogunquit </name>
+    <description> Ogunquit </description>
+    <Point>
+      <coordinates> -70.6071319,43.247231,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Havana </name>
+    <description> Havana </description>
+    <Point>
+      <coordinates> -82.345189,23.0540698,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> England </name>
+    <description> England </description>
+    <Point>
+      <coordinates> -1.1743197,52.3555177,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Sydenham </name>
+    <description> Sydenham </description>
+    <Point>
+      <coordinates> 144.7694517,-37.6960526,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Pennsylvany </name>
+    <description> Pennsylvany </description>
+    <Point>
+      <coordinates> -77.1945247,41.2033216,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Bombay </name>
+    <description> Bombay </description>
+    <Point>
+      <coordinates> 72.8776559,19.0759837,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Manila </name>
+    <description> Manila </description>
+    <Point>
+      <coordinates> 120.9842195,14.5995124,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> France </name>
+    <description> France </description>
+    <Point>
+      <coordinates> 2.213749,46.227638,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Danby </name>
+    <description> Danby </description>
+    <Point>
+      <coordinates> -0.911226,54.469378,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> America </name>
+    <description> America </description>
+    <Point>
+      <coordinates> -95.712891,37.09024,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Beaufort </name>
+    <description> Beaufort </description>
+    <Point>
+      <coordinates> 6.2925122,49.8353307,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> India </name>
+    <description> India </description>
+    <Point>
+      <coordinates> 78.96288,20.593684,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Callao </name>
+    <description> Callao </description>
+    <Point>
+      <coordinates> -77.1259843,-12.0508491,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name> Indies </name>
+    <description> Indies </description>
+    <Point>
+      <coordinates> -80.2962981,27.3031076,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Japan </name>
+    <description> Japan </description>
+    <Point>
+      <coordinates> 138.252924,36.204824,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Marthy </name>
+    <description> Marthy </description>
+    <Point>
+      <coordinates> -82.8595826,38.605196,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Byfleet </name>
+    <description> Byfleet </description>
+    <Point>
+      <coordinates> -0.471357,51.340125,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Goodsoe </name>
+    <description> Goodsoe </description>
+    <Point>
+      <coordinates> -70.7375423,43.097726,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Ireland </name>
+    <description> Ireland </description>
+    <Point>
+      <coordinates> -8.24389,53.41291,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Piscataqua </name>
+    <description> Piscataqua </description>
+    <Point>
+      <coordinates> -70.7928323,43.1006432,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Mountains </name>
+    <description> Mountains </description>
+    <Point>
+      <coordinates> 123.544808,10.0633172,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> LANE </name>
+    <description> LANE </description>
+    <Point>
+      <coordinates> -122.6618227,43.9610092,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> California </name>
+    <description> California </description>
+    <Point>
+      <coordinates> -119.4179324,36.778261,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Spincer </name>
+    <description> Spincer </description>
+    <Point>
+      <coordinates> -83.0205331,38.7193291,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Rocky </name>
+    <description> Rocky </description>
+    <Point>
+      <coordinates> -93.3538772,38.2310767,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Chadbourn </name>
+    <description> Chadbourn </description>
+    <Point>
+      <coordinates> -78.8269664,34.3221129,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Barvik </name>
+    <description> Barvik </description>
+    <Point>
+      <coordinates> 22.2026015,70.5421417,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Down </name>
+    <description> Down </description>
+    <Point>
+      <coordinates> -5.7484854,54.3412911,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> BETSEY </name>
+    <description> BETSEY </description>
+    <Point>
+      <coordinates> -84.7429981,36.9036852,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Philadelphia </name>
+    <description> Philadelphia </description>
+    <Point>
+      <coordinates> -75.163789,39.952335,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Hampshire </name>
+    <description> Hampshire </description>
+    <Point>
+      <coordinates> -1.216844,51.0895203,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Lowell </name>
+    <description> Lowell </description>
+    <Point>
+      <coordinates> -71.3161718,42.6334247,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Iceland </name>
+    <description> Iceland </description>
+    <Point>
+      <coordinates> -19.020835,64.963051,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Virginia </name>
+    <description> Virginia </description>
+    <Point>
+      <coordinates> -78.6568942,37.4315734,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Atlantic </name>
+    <description> Atlantic </description>
+    <Point>
+      <coordinates> -95.0138776,41.4036007,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Berwick </name>
+    <description> Berwick </description>
+    <Point>
+      <coordinates> -76.2332676,41.0545292,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> South </name>
+    <description> South </description>
+    <Point>
+      <coordinates> -73.1709604,44.4669941,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Alton </name>
+    <description> Alton </description>
+    <Point>
+      <coordinates> -90.1842764,38.8906038,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Madeira </name>
+    <description> Madeira </description>
+    <Point>
+      <coordinates> -16.9594723,32.7607074,0</coordinates>
+    </Point>
+  </Placemark>
+  
+ </Document>
+</kml>

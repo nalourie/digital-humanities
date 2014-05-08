@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+ <Document>
+ 
+  <Placemark>
+    <name> Orleans </name>
+    <description> Orleans </description>
+    <Point>
+      <coordinates> 1.909251,47.902964,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  
+  <Placemark>
+    <name> Toussaint </name>
+    <description> Toussaint </description>
+    <Point>
+      <coordinates> 0.424562,49.738945,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Mississippi </name>
+    <description> Mississippi </description>
+    <Point>
+      <coordinates> -89.3985283,32.3546679,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Caline </name>
+    <description> Caline </description>
+    <Point>
+      <coordinates> 9.005865,41.896084,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Goodchildren </name>
+    <description> Goodchildren </description>
+    <Point>
+      <coordinates> -89.8877442,29.8817936,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Dieu </name>
+    <description> Dieu </description>
+    <Point>
+      <coordinates> 135.6741914,34.7690415,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Louisiana </name>
+    <description> Louisiana </description>
+    <Point>
+      <coordinates> -91.9623327,30.9842977,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Isle </name>
+    <description> Isle </description>
+    <Point>
+      <coordinates> -93.4707923,46.138011,0</coordinates>
+    </Point>
+  </Placemark>
+  
+
+  <Placemark>
+    <name> Cousine </name>
+    <description> Cousine </description>
+    <Point>
+      <coordinates> 55.6474522,-4.350728,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Dresden </name>
+    <description> Dresden </description>
+    <Point>
+      <coordinates> 13.7372621,51.0504088,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Metairie </name>
+    <description> Metairie </description>
+    <Point>
+      <coordinates> -90.1528519,29.9840922,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Barataria </name>
+    <description> Barataria </description>
+    <Point>
+      <coordinates> -90.1236852,29.7232665,0</coordinates>
+    </Point>
+  </Placemark>
+
+  
+  <Placemark>
+    <name> Congo </name>
+    <description> Congo </description>
+    <Point>
+      <coordinates> 15.827659,-0.228021,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Shreveport </name>
+    <description> Shreveport </description>
+    <Point>
+      <coordinates> -93.7501789,32.5251516,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Mich </name>
+    <description> Mich </description>
+    <Point>
+      <coordinates> -85.6023643,44.3148443,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Madeira </name>
+    <description> Madeira </description>
+    <Point>
+      <coordinates> -16.9594723,32.7607074,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Cloutierville </name>
+    <description> Cloutierville </description>
+    <Point>
+      <coordinates> -92.9182136,31.543226,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Gouvernail </name>
+    <description> Gouvernail </description>
+    <Point>
+      <coordinates> 5.1001936,44.5910924,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Natchitoches </name>
+    <description> Natchitoches </description>
+    <Point>
+      <coordinates> -93.0862749,31.7607195,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  
+  <Placemark>
+    <name> Creole </name>
+    <description> Creole </description>
+    <Point>
+      <coordinates> -93.1112612,29.7960529,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Chartres </name>
+    <description> Chartres </description>
+    <Point>
+      <coordinates> 1.489012,48.443854,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Cane </name>
+    <description> Cane </description>
+    <Point>
+      <coordinates> 21.3248689,48.607069,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Marksville </name>
+    <description> Marksville </description>
+    <Point>
+      <coordinates> -92.0662356,31.1279652,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  
+  <Placemark>
+    <name> Lourdes </name>
+    <description> Lourdes </description>
+    <Point>
+      <coordinates> -0.045726,43.091463,0</coordinates>
+    </Point>
+  </Placemark>
+
+  
+  <Placemark>
+    <name> Sauterelle </name>
+    <description> Sauterelle </description>
+    <Point>
+      <coordinates> -0.5975985,47.4057711,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Julien </name>
+    <description> Julien </description>
+    <Point>
+      <coordinates> -90.7795725,42.4811138,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Gotrain </name>
+    <description> Gotrain </description>
+    <Point>
+      <coordinates> 9.8724175,51.5465535,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Choctaw </name>
+    <description> Choctaw </description>
+    <Point>
+      <coordinates> -97.2689212,35.4975625,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Texas </name>
+    <description> Texas </description>
+    <Point>
+      <coordinates> -99.9018131,31.9685988,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name> Az </name>
+    <description> Az </description>
+    <Point>
+      <coordinates> -111.0937311,34.0489281,0</coordinates>
+    </Point>
+  </Placemark>
+  
+ </Document>
+</kml>
