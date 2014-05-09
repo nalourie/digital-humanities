@@ -203,22 +203,6 @@
   </Placemark>
   
   <Placemark>
-    <name> Mountains </name>
-    <description> Mountains </description>
-    <Point>
-      <coordinates> 123.544808,10.0633172,0</coordinates>
-    </Point>
-  </Placemark>
-  
-  <Placemark>
-    <name> LANE </name>
-    <description> LANE </description>
-    <Point>
-      <coordinates> -122.6618227,43.9610092,0</coordinates>
-    </Point>
-  </Placemark>
-  
-  <Placemark>
     <name> California </name>
     <description> California </description>
     <Point>
@@ -235,14 +219,6 @@
   </Placemark>
   
   <Placemark>
-    <name> Rocky </name>
-    <description> Rocky </description>
-    <Point>
-      <coordinates> -93.3538772,38.2310767,0</coordinates>
-    </Point>
-  </Placemark>
-  
-  <Placemark>
     <name> Chadbourn </name>
     <description> Chadbourn </description>
     <Point>
@@ -255,22 +231,6 @@
     <description> Barvik </description>
     <Point>
       <coordinates> 22.2026015,70.5421417,0</coordinates>
-    </Point>
-  </Placemark>
-  
-  <Placemark>
-    <name> Down </name>
-    <description> Down </description>
-    <Point>
-      <coordinates> -5.7484854,54.3412911,0</coordinates>
-    </Point>
-  </Placemark>
-  
-  <Placemark>
-    <name> BETSEY </name>
-    <description> BETSEY </description>
-    <Point>
-      <coordinates> -84.7429981,36.9036852,0</coordinates>
     </Point>
   </Placemark>
   
@@ -327,14 +287,6 @@
     <description> Berwick </description>
     <Point>
       <coordinates> -76.2332676,41.0545292,0</coordinates>
-    </Point>
-  </Placemark>
-  
-  <Placemark>
-    <name> South </name>
-    <description> South </description>
-    <Point>
-      <coordinates> -73.1709604,44.4669941,0</coordinates>
     </Point>
   </Placemark>
   

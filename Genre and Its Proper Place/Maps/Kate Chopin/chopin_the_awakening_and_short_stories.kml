@@ -59,13 +59,6 @@
     </Point>
   </Placemark>
   
-  <Placemark>
-    <name> Creoles </name>
-    <description> Creoles </description>
-    <Point>
-      <coordinates> 57.6747222,-20.3813889,0</coordinates>
-    </Point>
-  </Placemark>
   
   <Placemark>
     <name> Biloxi </name>
@@ -144,14 +137,6 @@
     <description> Bienville </description>
     <Point>
       <coordinates> -92.9804374,32.3568222,0</coordinates>
-    </Point>
-  </Placemark>
-  
-  <Placemark>
-    <name> Zandrine </name>
-    <description> Zandrine </description>
-    <Point>
-      <coordinates> 6.8908576,61.8607186,0</coordinates>
     </Point>
   </Placemark>
   

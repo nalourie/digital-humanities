@@ -74,22 +74,7 @@
       <coordinates> -118.304352,34.043776,0</coordinates>
     </Point>
   </Placemark>
-  
-  <Placemark>
-    <name> Cane </name>
-    <description> Cane </description>
-    <Point>
-      <coordinates> 21.3248689,48.607069,0</coordinates>
-    </Point>
-  </Placemark>
-  
-  <Placemark>
-    <name> Novena </name>
-    <description> Novena </description>
-    <Point>
-      <coordinates> 103.8424319,1.3208572,0</coordinates>
-    </Point>
-  </Placemark>
+ 
   
   <Placemark>
     <name> Virginia </name>
@@ -187,52 +172,12 @@
     </Point>
   </Placemark>
   
-  
-  <Placemark>
-    <name> Mardi </name>
-    <description> Mardi </description>
-    <Point>
-      <coordinates> 151.4095829,-33.2983205,0</coordinates>
-    </Point>
-  </Placemark>
-  
+ 
   <Placemark>
     <name> Sumter </name>
     <description> Sumter </description>
     <Point>
       <coordinates> -80.3414693,33.9204354,0</coordinates>
-    </Point>
-  </Placemark>
-  
-  <Placemark>
-    <name> Bamboula </name>
-    <description> Bamboula </description>
-    <Point>
-      <coordinates> -53.183333,3.833333,0</coordinates>
-    </Point>
-  </Placemark>
-  
-  <Placemark>
-    <name> Zandrine </name>
-    <description> Zandrine </description>
-    <Point>
-      <coordinates> 6.8908576,61.8607186,0</coordinates>
-    </Point>
-  </Placemark>
-  
-  <Placemark>
-    <name> Lolotte </name>
-    <description> Lolotte </description>
-    <Point>
-      <coordinates> 55.5591575,-21.2414786,0</coordinates>
-    </Point>
-  </Placemark>
-  
-  <Placemark>
-    <name> Denis </name>
-    <description> Denis </description>
-    <Point>
-      <coordinates> 55.6675756,-3.8053291,0</coordinates>
     </Point>
   </Placemark>
   
